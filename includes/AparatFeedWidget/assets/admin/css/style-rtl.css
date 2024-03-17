@@ -1,0 +1,91 @@
+.ddaf-widget-form {
+	margin-bottom: 15px;
+	margin-right: -10px;
+	margin-left: -10px;
+}
+
+.ddaf-section {
+	margin: 5px 0;
+}
+
+.ddaf-section-top {
+	background-color: #F5F5F5;
+	border: 1px solid #DDD;
+	cursor: pointer;
+}
+
+.ddaf-section-top.ddaf-active,
+.ddaf-section-top:hover {
+	background-color: #F1F1F1;
+	border: 1px solid #CCC;
+}
+
+.ddaf-section-top.ddaf-active {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.ddaf-top-action {
+	float: left;
+	position: relative;
+}
+
+.ddaf-action-indicator {
+	box-shadow: none;
+	color: inherit;
+	outline: medium none;
+	text-decoration: none;
+}
+
+a.ddaf-action-indicator:focus,
+a.ddaf-action-indicator:focus::after {
+	border: 0 none;
+	box-shadow: 0 0 0 0 !important;
+}
+
+a.ddaf-action-indicator:after {
+	border: 0 none;
+	background: none;
+	content: "\f140";
+	display: block;
+	font: normal 20px/1 dashicons;
+	margin-top: 10px;
+	margin-left: 10px;
+	padding: 1px 0px 1px 2px;
+	position: relative;
+	left: 0;
+	text-align: center;
+	text-decoration: none !important;
+	text-indent: 0;
+}
+
+.ddaf-section-top.ddaf-active a.ddaf-action-indicator:after {
+	content: "\f142";
+}
+
+.ddaf-section-heading {
+	font-size: 1em;
+	line-height: 1;
+	margin: 0;
+	overflow: hidden;
+	padding: 15px 10px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.ddaf-fieldset {
+	background-color: #FAFAFA;
+	border-width: 0 1px 1px 1px;
+	border-color: #E5E5E5;
+	border-style: solid;
+	padding: 0 10px 10px 10px;
+}
+
+.ddaf-fieldset label {
+	display: inline-block;
+	margin-bottom: 1px;
+	padding: 1px 0;
+}
+
+.ltr {
+	direction: ltr;
+}

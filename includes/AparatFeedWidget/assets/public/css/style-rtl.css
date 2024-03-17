@@ -1,0 +1,184 @@
+.aparat-feed-widget article,
+.aparat-feed-widget aside,
+.aparat-feed-widget details,
+.aparat-feed-widget figcaption,
+.aparat-feed-widget figure,
+.aparat-feed-widget footer,
+.aparat-feed-widget header,
+.aparat-feed-widget hgroup,
+.aparat-feed-widget main, menu,
+.aparat-feed-widget nav,
+.aparat-feed-widget section,
+.aparat-feed-widget summary {
+	display: block;
+}
+
+.aparat-feed-widget .panel {
+	margin-bottom: 5px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.aparat-feed-widget .box {
+	box-shadow: 1px 1px 7px rgb(0 0 0 / 20%);
+	margin-bottom: 10px;
+	border-radius: 3px;
+}
+
+.aparat-feed-widget div header.box {
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.aparat-feed-widget div header.box:hover {
+	box-shadow: 0 0 20px rgba(0,0,0,0.2);
+	background: unset;
+}
+
+.aparat-feed-widget div header.box a {
+	display: block;
+}
+
+.aparat-feed-widget .col-xs-1,
+.aparat-feed-widget .col-sm-1,
+.aparat-feed-widget .col-md-1,
+.aparat-feed-widget .col-lg-1,
+.aparat-feed-widget .col-xs-2,
+.aparat-feed-widget .col-sm-2,
+.aparat-feed-widget .col-md-2,
+.aparat-feed-widget .col-lg-2,
+.aparat-feed-widget .col-xs-3,
+.aparat-feed-widget .col-sm-3,
+.aparat-feed-widget .col-md-3,
+.aparat-feed-widget .col-lg-3,
+.aparat-feed-widget .col-xs-4,
+.aparat-feed-widget .col-sm-4,
+.aparat-feed-widget .col-md-4,
+.aparat-feed-widget .col-lg-4,
+.aparat-feed-widget .col-xs-5,
+.aparat-feed-widget .col-sm-5,
+.aparat-feed-widget .col-md-5,
+.aparat-feed-widget .col-lg-5,
+.aparat-feed-widget .col-xs-6,
+.aparat-feed-widget .col-sm-6,
+.aparat-feed-widget .col-md-6,
+.aparat-feed-widget .col-lg-6,
+.aparat-feed-widget .col-xs-7,
+.aparat-feed-widget .col-sm-7,
+.aparat-feed-widget .col-md-7,
+.aparat-feed-widget .col-lg-7,
+.aparat-feed-widget .col-xs-8,
+.aparat-feed-widget .col-sm-8,
+.aparat-feed-widget .col-md-8,
+.aparat-feed-widget .col-lg-8,
+.aparat-feed-widget .col-xs-9,
+.aparat-feed-widget .col-sm-9,
+.aparat-feed-widget .col-md-9,
+.aparat-feed-widget .col-lg-9,
+.aparat-feed-widget .col-xs-10,
+.aparat-feed-widget .col-sm-10,
+.aparat-feed-widget .col-md-10,
+.aparat-feed-widget .col-lg-10,
+.aparat-feed-widget .col-xs-11,
+.aparat-feed-widget .col-sm-11,
+.aparat-feed-widget .col-md-11,
+.aparat-feed-widget .col-lg-11,
+.aparat-feed-widget .col-xs-12,
+.aparat-feed-widget .col-sm-12,
+.aparat-feed-widget .col-md-12,
+.aparat-feed-widget .col-lg-12 {
+	position: relative;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.aparat-feed-widget .col-xs-1,
+.aparat-feed-widget .col-xs-2,
+.aparat-feed-widget .col-xs-3,
+.aparat-feed-widget .col-xs-4,
+.aparat-feed-widget .col-xs-5,
+.aparat-feed-widget .col-xs-6,
+.aparat-feed-widget .col-xs-7,
+.aparat-feed-widget .col-xs-8,
+.aparat-feed-widget .col-xs-9,
+.aparat-feed-widget .col-xs-10,
+.aparat-feed-widget .col-xs-11,
+.aparat-feed-widget .col-xs-12 {
+	float: right;
+}
+
+.aparat-feed-widget .col-xs-6 {
+	width: 50%;
+}
+
+@media (min-width: 768px) {
+
+	.aparat-feed-widget .col-sm-1,
+	.aparat-feed-widget .col-sm-2,
+	.aparat-feed-widget .col-sm-3,
+	.aparat-feed-widget .col-sm-4,
+	.aparat-feed-widget .col-sm-5,
+	.aparat-feed-widget .col-sm-6,
+	.aparat-feed-widget .col-sm-7,
+	.aparat-feed-widget .col-sm-8,
+	.aparat-feed-widget .col-sm-9,
+	.aparat-feed-widget .col-sm-10,
+	.aparat-feed-widget .col-sm-11,
+	.aparat-feed-widget .col-sm-12 {
+		float: right;
+	}
+
+	.aparat-feed-widget .col-sm-3 {
+		width: 25%;
+	}
+
+	.aparat-feed-widget .col-sm-4 {
+		width: 33.33333333%;
+	}
+
+	.aparat-feed-widget .col-sm-6 {
+		width: 50%;
+	}
+
+}
+
+@media (min-width: 992px) {
+
+	.aparat-feed-widget .col-md-1,
+	.aparat-feed-widget .col-md-2,
+	.aparat-feed-widget .col-md-3,
+	.aparat-feed-widget .col-md-4,
+	.aparat-feed-widget .col-md-5,
+	.aparat-feed-widget .col-md-6,
+	.aparat-feed-widget .col-md-7,
+	.aparat-feed-widget .col-md-8,
+	.aparat-feed-widget .col-md-9,
+	.aparat-feed-widget .col-md-10,
+	.aparat-feed-widget .col-md-11,
+	.aparat-feed-widget .col-md-12 {
+		float: right;
+	}
+
+	.aparat-feed-widget .col-md-2 {
+		width: 16.66666667%;
+	}
+
+	.aparat-feed-widget .col-md-3 {
+		width: 25%;
+	}
+
+	.aparat-feed-widget .col-md-4 {
+		width: 33.33333333%;
+	}
+
+}
+
+.aparat-feed-widget .category-post-image {
+	text-align: center;
+}
+
+.aparat-feed-widget figure {
+	margin: 0;
+}
