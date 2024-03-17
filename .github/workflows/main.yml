@@ -21,7 +21,7 @@ jobs:
 
       - name: Configure Git
         run: |
-          git checkout master
+          git checkout main
 
       - name: Remove unwanted files
         run: |
@@ -36,4 +36,4 @@ jobs:
         run: |
           git add .
           git commit -am "Sync plugin from SVN"
-          git push origin master
+          git push origin main
