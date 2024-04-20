@@ -20,7 +20,7 @@ https://www.aparat.com
 Aparat Community Guide/Service Terms: https://www.aparat.com/community-guideline
 
 Validated by:
-https://wpreadme.com/
+https://wpreadme.com
 https://wordpress.org/plugins/developers/readme-validator
 
 == Installation ==

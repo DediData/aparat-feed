@@ -5,14 +5,14 @@
  * Plugin URI: https://dedidata.com
  * Author: DediData
  * Author URI: https://dedidata.com
- * Version: 1.2.8
+ * Version: 2.0.0
  * Requires at least: 6.0
  * Tested up to: 6.4
  * Requires PHP: 7.0
  * License: GPL v3
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: aparat-feed
- * 
+ *
  * @package Aparat_Feed
  */
 
