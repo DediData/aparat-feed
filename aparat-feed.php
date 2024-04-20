@@ -5,7 +5,7 @@
  * Plugin URI: https://dedidata.com
  * Author: DediData
  * Author URI: https://dedidata.com
- * Version: 2.0.0
+ * Version: 1.2.8
  * Requires at least: 6.0
  * Tested up to: 6.4
  * Requires PHP: 7.0
